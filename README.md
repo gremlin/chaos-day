@@ -1,6 +1,10 @@
 # chaos-day
 Information to run your own Chaos Day
 
+## Watch the Chaos Day O'Reilly Video
+This is a keynote highlight from the O'Reilly Velocity Conference in New York 2018. 
+https://www.oreilly.com/ideas/chaos-day-when-reliability-reigns
+
 ## Chaos Day Pre-Read Information
 
 Before your attendees arrive at your Chaos Day it is important to send them a useful pre-read pack. 
